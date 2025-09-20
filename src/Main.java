@@ -14,8 +14,6 @@ public class Main {
         if (customerAge >= 21) {
             System.out.println("You are 21 or older, you get a wrist band!");
         }
-        else {
-            System.out.println("Invalid age!");
-        }
+        else {}
     }
 }
